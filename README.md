@@ -16,7 +16,7 @@ ____
 data[value] = IntegerField(...), но есть другое решение. Подсказка: Модели остаются неизменными
 
 ### Ссылка на решение в коде:
-https://github.com/Kakoytobarista/DRF_TASK/blob/a929d62bc3fff3144f52bac8702c11d1e28bd0f2/drf_task/apps/api/serializers.py#L15
+(https://github.com/Kakoytobarista/DRF_TASK/blob/a929d62bc3fff3144f52bac8702c11d1e28bd0f2/drf_task/apps/api/serializers.py#L12-L27)
 
 
 ____
