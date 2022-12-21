@@ -7,7 +7,7 @@
 Подсказка: Модели и сериализатор остаются неизменными.
 
 ### Ссылка на решение в коде:
-
+https://github.com/Kakoytobarista/DRF_TASK/blob/a929d62bc3fff3144f52bac8702c11d1e28bd0f2/drf_task/apps/api/views.py#L20
 
 ____
 2. Для создания Entity на вход POST API подаётся json вида
@@ -16,7 +16,7 @@ ____
 data[value] = IntegerField(...), но есть другое решение. Подсказка: Модели остаются неизменными
 
 ### Ссылка на решение в коде:
-
+https://github.com/Kakoytobarista/DRF_TASK/blob/a929d62bc3fff3144f52bac8702c11d1e28bd0f2/drf_task/apps/api/serializers.py#L15
 
 
 ____
@@ -58,7 +58,7 @@ ____
 ```
 
 #### Ссылка на решение в коде: 
-
+https://github.com/Kakoytobarista/DRF_TASK/blob/a929d62bc3fff3144f52bac8702c11d1e28bd0f2/drf_task/apps/api/serializers.py#L30-L35
 
 ____
 
